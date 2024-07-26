@@ -1,4 +1,3 @@
-package lab3;
 
 import java.net.InetSocketAddress;
 import java.net.Proxy;
