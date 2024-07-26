@@ -1,3 +1,5 @@
+package lab3;
+
 import java.net.*;
 import java.util.List;
 public class cookiemanager{
